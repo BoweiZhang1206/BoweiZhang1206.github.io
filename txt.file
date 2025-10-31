@@ -26,4 +26,7 @@ The contact text and links are styled with different colors, such as black for t
 
 Part 2:
 
-Link: http://127.0.0.1:4321/templete.html
+Local Link: http://127.0.0.1:4321/templete.html
+(I used Rstudio to do this one and I open this html with Rstudio and it gave me this local link so I can see the graph. 
+I also can see the graph if I do the preview in Rstudio. 
+To make sure you can see the graph, I put the screenshot in the docx, that file got same content with this txt.file.)
