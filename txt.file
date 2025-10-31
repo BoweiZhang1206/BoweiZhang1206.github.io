@@ -1,0 +1,29 @@
+Part 1:
+
+Github HTTPS: https://github.com/BoweiZhang1206/BoweiZhang1206.github.io.git
+
+Website Link: https://boweizhang1206.github.io/
+
+Description
+
+In this website, I have created a personalized design using custom CSS to make it more visually appealing and easy to navigate. Below are the main styling and customization features I implemented:
+
+1.Custom Color Scheme
+I used a light blue background (lightblue) for the entire page to create a calm and professional look. The header and navigation bar are deep blue (navy) to make the title and menu stand out clearly. Text is primarily black for good readability, and links use navy blue for consistency.
+
+2.Custom Fonts and Typography
+I used the Google Font “Poppins”, a clean and modern sans-serif typeface, throughout the site. This font makes the website look more polished and professional. The headings (h1, h2) are bold and dark blue to emphasize structure and hierarchy.
+
+3.Custom Layout and Styling
+The main content sections are placed inside white boxes with rounded corners and drop shadows to create a card-like layout. I also adjusted margins and padding to ensure balanced spacing between sections. Navigation links are centered and separated with a vertical line for clarity. The footer is styled with a smaller font and consistent colors.
+
+4.Image Styling
+All images have consistent width, rounded corners, and subtle shadows to make them visually balanced. The “Photos About Me” section is arranged using a flexible layout that keeps the pictures aligned and evenly spaced.
+
+5.Contact Section Customization
+The contact text and links are styled with different colors, such as black for the label, navy for the links. And people can click my email and Linkedln button. They can just send me an email or transfer to my Linkedln Page. The phone number uses a clickable ‘tel:’ link so users can easily call from mobile devices.
+
+
+Part 2:
+
+Link: http://127.0.0.1:4321/templete.html
