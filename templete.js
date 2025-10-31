@@ -139,7 +139,7 @@ SocialMediaAvg.then(function(data) {
 
     const color = d3.scaleOrdinal()
       .domain([...new Set(data.map(d => d.PostType))])
-      .range(["#1f77b4", "#ff7f0e", "#2ca02c"]);    
+      .range(["#e63946", "#ffb703", "#2a9d8f"]);   
          
     // Add scales x0 and y     
     svg.append("g")
